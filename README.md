@@ -1,2 +1,2 @@
-# financial-management-tool
-financial-management-tool
+# financial-management
+financial-management
